@@ -5,9 +5,9 @@
 ### 22022578 Chu Thân Nhất
 
 # Yêu cầu của Phần Mềm
-### Dịch 1 đoạn văn bất kỳ
-### Dịch 1 web bất kỳ
-### Dịch 1 video youtube có phụ đề
-### Tích hợp AI
-### Dich sang nhiều ngôn ngữ
+### 1.Dịch 1 đoạn văn bất kỳ
+### 2.Dịch 1 web bất kỳ
+### 3.Dịch 1 video youtube có phụ đề
+### 4.Tích hợp AI
+### 5.Dich sang nhiều ngôn ngữ
 
