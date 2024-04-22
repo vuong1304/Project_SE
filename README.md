@@ -1,6 +1,6 @@
 # Project_Phần_Mềm_Dịch_Thuật
 
-![Ảnh Demo](demo.png)
+![Ảnh Demo]([demo.png](https://drive.google.com/file/d/1wI2JSjsu0DBnhQcO9VMY_YF7anL4rYFf/view?usp=drivesdk))
 
 Đây là dự án nhóm sinh viên, mã nguồn mở, mục đích dịch các đoạn văn bản, dịch một web, dịch một link youtube
 
