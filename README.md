@@ -25,9 +25,9 @@
 ## Tác Giả
 
 Tên tác giả
-22022601 Cao Đặng Quốc Vương
-22022567 Hồ Minh Hoàng
-22022578 Chu Thân Nhất
+- 22022601 Cao Đặng Quốc Vương
+- 22022567 Hồ Minh Hoàng
+- 22022578 Chu Thân Nhất
 
 ## Giấy Phép
 
