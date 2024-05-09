@@ -4,19 +4,19 @@ Chúng tôi với tư cách là thành viên, người đóng góp và người 
 Chúng tôi cam kết hành động và tương tác theo những cách góp phần tạo nên một cộng đồng cởi mở, thân thiện, đa dạng, hòa nhập và lành mạnh.
 ## Tiêu chuẩn của chúng tôi
 Ví dụ về hành vi góp phần tạo ra môi trường tích cực cho cộng đồng của chúng ta bao gồm:
-*Thể hiện sự đồng cảm và lòng tốt đối với người khác
-*Tôn trọng những ý kiến, quan điểm và kinh nghiệm khác nhau
-*Đưa ra và chấp nhận những phản hồi mang tính xây dựng một cách duyên dáng
-*Nhận trách nhiệm và xin lỗi những người bị ảnh hưởng bởi sai lầm của mình và rút kinh nghiệm
-*Tập trung vào những gì tốt nhất không chỉ cho cá nhân chúng ta mà còn cho cả cộng đồng
+* Thể hiện sự đồng cảm và lòng tốt đối với người khác
+* Tôn trọng những ý kiến, quan điểm và kinh nghiệm khác nhau
+* Đưa ra và chấp nhận những phản hồi mang tính xây dựng một cách duyên dáng
+* Nhận trách nhiệm và xin lỗi những người bị ảnh hưởng bởi sai lầm của mình và rút kinh nghiệm
+* Tập trung vào những gì tốt nhất không chỉ cho cá nhân chúng ta mà còn cho cả cộng đồng
 
 Ví dụ về hành vi không được chấp nhận bao gồm:
 
-*Việc sử dụng ngôn ngữ hoặc hình ảnh khiêu dâm và sự chú ý hoặc tán tỉnh tình dục dưới bất kỳ hình thức nào
-*Những bình luận mang tính chất troll, xúc phạm hoặc xúc phạm và tấn công cá nhân hoặc chính trị
-*Quấy rối công khai hoặc riêng tư
-*Xuất bản thông tin cá nhân của người khác, chẳng hạn như địa chỉ thực hoặc địa chỉ email mà không có sự cho phép rõ ràng của họ
-*Hành vi khác có thể được coi là không phù hợp trong môi trường chuyên nghiệp
+* Việc sử dụng ngôn ngữ hoặc hình ảnh khiêu dâm và sự chú ý hoặc tán tỉnh tình dục dưới bất kỳ hình thức nào
+* Những bình luận mang tính chất troll, xúc phạm hoặc xúc phạm và tấn công cá nhân hoặc chính trị
+* Quấy rối công khai hoặc riêng tư
+* Xuất bản thông tin cá nhân của người khác, chẳng hạn như địa chỉ thực hoặc địa chỉ email mà không có sự cho phép rõ ràng của họ
+* Hành vi khác có thể được coi là không phù hợp trong môi trường chuyên nghiệp
 ## Trách nhiệm thực thi
 Các nhà lãnh đạo cộng đồng có trách nhiệm làm rõ và thực thi các tiêu chuẩn về hành vi được chấp nhận của chúng tôi, đồng thời sẽ thực hiện hành động khắc phục phù hợp và công bằng để đáp lại bất kỳ hành vi nào mà họ cho là không phù hợp, đe dọa, xúc phạm hoặc có hại.
 Các nhà lãnh đạo cộng đồng có quyền và trách nhiệm xóa, chỉnh sửa hoặc từ chối nhận xét, cam kết, mã, chỉnh sửa wiki, vấn đề và các đóng góp khác không phù hợp với Quy tắc ứng xử này và sẽ truyền đạt lý do cho các quyết định kiểm duyệt khi thích hợp.
