@@ -28,8 +28,8 @@ Tất cả các nhà lãnh đạo cộng đồng có nghĩa vụ tôn trọng qu
 ## Hướng dẫn thực thi
 Các nhà lãnh đạo cộng đồng sẽ tuân theo các Nguyên tắc tác động cộng đồng này trong việc xác định hậu quả đối với bất kỳ hành động nào mà họ cho là vi phạm Quy tắc ứng xử này:
 ### 1. Chỉnh sửa
-** Tác động đến cộng đồng ** : Sử dụng ngôn ngữ không phù hợp hoặc hành vi khác được coi là không chuyên nghiệp hoặc không được chào đón trong cộng đồng.
-** Hậu quả ** : Một cảnh báo riêng bằng văn bản từ các nhà lãnh đạo cộng đồng, cung cấp sự rõ ràng về bản chất của hành vi vi phạm và giải thích lý do tại sao hành vi đó là không phù hợp. Một lời xin lỗi công khai có thể được yêu cầu.
+**Tác động đến cộng đồng** : Sử dụng ngôn ngữ không phù hợp hoặc hành vi khác được coi là không chuyên nghiệp hoặc không được chào đón trong cộng đồng.
+**Hậu quả** : Một cảnh báo riêng bằng văn bản từ các nhà lãnh đạo cộng đồng, cung cấp sự rõ ràng về bản chất của hành vi vi phạm và giải thích lý do tại sao hành vi đó là không phù hợp. Một lời xin lỗi công khai có thể được yêu cầu.
 ### 2. Cảnh báo
 **Tác động cộng đồng** : Vi phạm thông qua một sự cố hoặc một loạt hành động.
 **Hậu quả** : Cảnh báo kèm theo hậu quả nếu tiếp tục hành vi. Không tương tác với những người liên quan, bao gồm cả tương tác tự nguyện với những người thực thi Quy tắc ứng xử trong một khoảng thời gian nhất định. Điều này bao gồm việc tránh tương tác trong không gian cộng đồng cũng như các kênh bên ngoài như mạng xã hội. Vi phạm các điều khoản này có thể dẫn đến lệnh cấm tạm thời hoặc vĩnh viễn.
