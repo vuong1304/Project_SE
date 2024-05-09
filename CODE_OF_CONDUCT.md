@@ -29,15 +29,18 @@ Tất cả các nhà lãnh đạo cộng đồng có nghĩa vụ tôn trọng qu
 Các nhà lãnh đạo cộng đồng sẽ tuân theo các Nguyên tắc tác động cộng đồng này trong việc xác định hậu quả đối với bất kỳ hành động nào mà họ cho là vi phạm Quy tắc ứng xử này:
 ### 1. Chỉnh sửa
 **Tác động đến cộng đồng** : Sử dụng ngôn ngữ không phù hợp hoặc hành vi khác được coi là không chuyên nghiệp hoặc không được chào đón trong cộng đồng.
+
 **Hậu quả** : Một cảnh báo riêng bằng văn bản từ các nhà lãnh đạo cộng đồng, cung cấp sự rõ ràng về bản chất của hành vi vi phạm và giải thích lý do tại sao hành vi đó là không phù hợp. Một lời xin lỗi công khai có thể được yêu cầu.
 ### 2. Cảnh báo
 **Tác động cộng đồng** : Vi phạm thông qua một sự cố hoặc một loạt hành động.
+
 **Hậu quả** : Cảnh báo kèm theo hậu quả nếu tiếp tục hành vi. Không tương tác với những người liên quan, bao gồm cả tương tác tự nguyện với những người thực thi Quy tắc ứng xử trong một khoảng thời gian nhất định. Điều này bao gồm việc tránh tương tác trong không gian cộng đồng cũng như các kênh bên ngoài như mạng xã hội. Vi phạm các điều khoản này có thể dẫn đến lệnh cấm tạm thời hoặc vĩnh viễn.
 ### 3. Lệnh cấm tạm thời
 **Tác động cộng đồng** : Vi phạm nghiêm trọng các tiêu chuẩn cộng đồng, bao gồm cả hành vi không phù hợp kéo dài.
 **Hậu quả **: Bị cấm tạm thời mọi hình thức tương tác hoặc giao tiếp công khai với cộng đồng trong một khoảng thời gian nhất định. Không được phép tương tác công khai hoặc riêng tư với những người liên quan, bao gồm cả tương tác không được yêu cầu với những người thực thi Quy tắc ứng xử trong thời gian này. Vi phạm các điều khoản này có thể dẫn đến lệnh cấm vĩnh viễn.
 ### 4. Lệnh cấm vĩnh viễn
 **Tác động đến cộng đồng** : Thể hiện một kiểu vi phạm các tiêu chuẩn cộng đồng, bao gồm hành vi không phù hợp kéo dài, quấy rối một cá nhân hoặc gây hấn hoặc chê bai các tầng lớp cá nhân.
+
 **Hậu quả** : Cấm vĩnh viễn mọi hình thức tương tác công khai trong cộng đồng.
 ## Ghi công
 Quy tắc ứng xử này được điều chỉnh từ Giao ước cộng tác viên , phiên bản 2.0, có sẵn tại  https://www.contributor-covenant.org/version/2/0/code_of_conduct.html .
