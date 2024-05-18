@@ -5,12 +5,12 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import *
 
-def translate_text(english_text):
+def translate_text(text, src_lang, dest_lang):
     translator = Translator()
     try:
-        # Ensure input is a string
-        if isinstance(english_text, str) and english_text.strip():
-            translation = translator.translate(english_text, src='en', dest='vi')
+        # Đảm bảo đầu vào là một chuỗi
+        if isinstance(text, str) and text.strip():
+            translation = translator.translate(text, src=src_lang, dest=dest_lang)
             return translation.text
         else:
             return ''
@@ -18,25 +18,28 @@ def translate_text(english_text):
         print(f"Translation error: {e}")
         return ''
 
-# Function to scrape data from a webpage
+# Cào dữ liệu từ web
 def scrape_webpage():
     url = src_text.get("1.0", tk.END).strip()
-    # Send a GET request to the URL
+    src_lang = languages[src_lang_combobox.get()]
+    dest_lang = languages[tgt_lang_combobox.get()]
+    
+    # Gửi yêu cầu GET tới url
     response = requests.get(url)
     
-    # Check if the request was successful
+    # Kiểm tra xem thành công không
     if response.status_code == 200:
         # Parse the HTML content of the page
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Extract the information you need from the HTML
+        # Trích xuất thông tin cần từ HTML
         paragraphs = soup.find_all('p')
         translated_paragraphs = []
 
         for p in paragraphs:
             paragraph_text = p.get_text().strip()
             if paragraph_text:
-                translated_text = translate_text(paragraph_text)
+                translated_text = translate_text(paragraph_text, src_lang, dest_lang)
                 if translated_text:
                     translated_paragraphs.append(translated_text)
 
@@ -47,18 +50,6 @@ def scrape_webpage():
     else:
         print("Failed to retrieve the webpage. Status code:", response.status_code)
         return None
-
-# # URL of the webpage you want to scrape
-# url = 'https://www.linkedin.com/pulse/how-scrap-data-from-website-using-python-bhara-yudhiantara'  # Replace this with the URL you want to scrape
-
-# # Scrape the webpage
-# webpage_content = scrape_webpage(url)
-
-# if webpage_content:
-#     # Print the scraped content
-#     print("Scraped content:\n", webpage_content)
-# else:
-#     print("Scraping failed.")
 
 # Hàm để xóa văn bản trong ô nguồn và ô đích
 def clear_text():
