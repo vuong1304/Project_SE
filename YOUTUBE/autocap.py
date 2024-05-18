@@ -6,7 +6,7 @@ from datetime import timedelta
 from googletrans import Translator 
 import time
 import pysrt
-from googletrans import Translator
+
 
 YT_ATTACH = "youtube-a"
 YT_GENERATE = "youtube-g"

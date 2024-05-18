@@ -1,31 +1,3 @@
-# import subprocess
-
-# # Thực hiện lệnh python autocap.py youtube-g <youtube_link>
-# youtube_link = "https://www.youtube.com/shorts/f0cXJ6mJxGc"
-# # youtube_link = "https://www.youtube.com/shorts/oA4LSZvX4iE"
-# subprocess.run(["python", "autocap.py", "youtube-g", youtube_link])
-
-# # Thực hiện lệnh ffmpeg để thêm phụ đề vào video
-# ffmpeg_command = [
-#     "ffmpeg", "-y",
-#     "-i", "yt.mp4",
-#     "-i", "temp.mp3",
-#     "-filter_complex", "subtitles=output.srt:force_style='Name=Default,Fontname=Cambria Bold,Fontsize=20,PrimaryColour=&H05C8F7&,SecondaryColour=&h0000FF,BackColour=&H0,BorderStyle=3,Shadow=0',setsar=1",
-#     "-map", "1:a:0",
-#     "-vcodec", "libx264",
-#     "-pix_fmt", "yuv420p",
-#     "-r", "25",
-#     "-g", "160",
-#     "-b:v", "4000k",
-#     "-profile:v", "main",
-#     "-level", "3.1",
-#     "-acodec", "libmp3lame",
-#     "-b:a", "128k",
-#     "-ar", "44100",
-#     "-preset", "superfast",
-#     "outvideo.mp4"
-# ]
-# subprocess.run(ffmpeg_command)
 
 import tkinter as tk
 from tkinter import messagebox
@@ -36,12 +8,14 @@ import os
 def run_autocap():
     # Lấy link YouTube từ input_entry
     youtube_link = input_entry.get()
-    
+    #  https://www.youtube.com/shorts/stUofW3whpE
     # Kiểm tra xem link có hợp lệ không
     if not youtube_link.startswith("https://www.youtube.com"):
         messagebox.showerror("Error", "Invalid YouTube link")
         return
     
+    
+
     # Thực hiện thời gian bắt đầu
     start_time = time.time()
 
@@ -83,7 +57,9 @@ def run_autocap():
 
 # Tạo cửa sổ giao diện
 root = tk.Tk()
-root.title("Auto Subtitles")
+root.title("Ứng dụng Dịch thuật")
+# Thiết lập icon cho cửa sổ
+root.iconbitmap("icon.ico")
 
 # Tạo label và entry cho link YouTube
 youtube_label = tk.Label(root, text="Enter YouTube link:")
