@@ -33,7 +33,7 @@ def scrape_webpage():
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Trích xuất thông tin cần từ HTML
-        paragraphs = soup.find_all('p')
+        paragraphs = soup.find_all(['p', 'b', 'i', 'strong', 'emp', 'font', 'ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
         translated_paragraphs = []
 
         for p in paragraphs:
@@ -47,6 +47,7 @@ def scrape_webpage():
         tgt_text.delete("1.0", tk.END)
         tgt_text.insert(tk.END, text)
         return text
+
     else:
         print("Failed to retrieve the webpage. Status code:", response.status_code)
         return None
