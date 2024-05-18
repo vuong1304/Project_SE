@@ -1,35 +1,71 @@
-# Project_Phần_Mềm_Dịch_Thuật
+# Project Translate 
 
-Ảnh Demo
-- https://drive.google.com/file/d/1wI2JSjsu0DBnhQcO9VMY_YF7anL4rYFf/view?usp=drivesdk
-
-Đây là dự án nhóm sinh viên, mã nguồn mở, mục đích dịch các đoạn văn bản, dịch một web, dịch một link youtube
-
-## Cài Đặt
+![image](https://github.com/vuong1304/Project_SE/assets/127286400/1e79de78-be10-462b-8928-1991734c9bff)
 
 
+## Mô Tả  
 
-## Tính Năng
+Đây là một dự án của một nhóm sinh viên trường đại học công nghệ VNU, làm về phần mềm dịch thuật
+Mục đích chính của phần mềm là dịch cơ bản một đoạn văn, dịch một trang web, dịch một video với phụ đề là tiếng việt.
+Phần mềm hướng tới người dùng là người Việt Nam, những người cần dùng để dịch, hay xem video một cách dễ dàng hơn.
 
-- Tính năng 1: Dịch đoạn văn bất kỳ sang tiếng việt
-- Tính năng 2: Dịch web bất kỳ
-- Tính năng 3: Dịch một video youtube
+## Getting Started
 
-## Yêu Cầu
+### Phụ thuộc
 
-- Yêu cầu hệ thống:
-- Yêu cầu phần mềm:
+Hiện tại tôi đang chạy dự án trên Window.
+Ngôn ngữ chính là python và đi kèm theo đó là các thư viện:
+os
+argparse
+platform
+subprocess 
+timedelta
+Translator
+time
+pysrt
+tkinter 
+whisper
+ffmpeg 
+yt_dlp 
+moviepy
 
-## Cách Đóng Góp
+### Cài đặt 
+* Cài đặt python tước tiên 
+* Để cài đặt bạn có thế đi đến phần tải xuống trên github và tải xuống dự án của chúng tôi. 
+* Để cài đặt các thư viện bạn chỉ cần chạy trong cmd:
+  - pip install tên_thư_viện 
+### Chương trình thực thi  
 
+* Sau khi tải và cài đặt các thư viện, bạn chỉ cần chạy file main.py chương trình sẽ thực thi.
+* Các khác chạy bằng cmd:
+  - Tại đường dẫn thư mục chạy cmd
+  - Gõ: python main.py 
+## Help
 
-## Tác Giả
+Nếu có bất cứ vấn đề gì trong chương trình, xin hãy báo cáo lại cho chúng tôi.
+Đóng góp của bạn sẽ rất là hữu ích 
 
-Tên tác giả
-- 22022601 Cao Đặng Quốc Vương
-- 22022567 Hồ Minh Hoàng
-- 22022578 Chu Thân Nhất
+## Tác giả 
 
-## Giấy Phép
+Contributors names
+* @CTNone
+* @vuong1304
+* @hominhhoang24]
+## Version History
 
-Thông tin về giấy phép.
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the License - see the LICENSE.md file for details
+
+## Lời cảm ơn 
+
+Cuối cùng, cảm ơn mọi người đã ở đây và làm việc cùng mình.
+* [CTNone](https://github.com/CTNone)
+* [vuong1304](https://github.com/vuong1304)
+* [hominhhoang24](https://github.com/hominhhoang24)
