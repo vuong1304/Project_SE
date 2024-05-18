@@ -58,7 +58,7 @@ def clear_text():
 
 # Tạo cửa sổ chính
 root = tk.Tk()
-root.title("Translate")
+root.title("Dịch Thuật")
 
 # Thiết lập icon cho cửa sổ
 image_icon = PhotoImage(file = "WEB_/icon.png")
@@ -101,7 +101,7 @@ tgt_lang_combobox.grid(row=2, column=1, sticky=tk.W)
 tgt_lang_combobox.set('Tiếng Việt')
 
 # Nút dịch
-translate_button = ttk.Button(frame, text="Run", command=scrape_webpage)
+translate_button = ttk.Button(frame, text="Dịch", command=scrape_webpage)
 translate_button.grid(row=2, column=0, columnspan=2, sticky=tk.E)
 
 # Nút xóa
