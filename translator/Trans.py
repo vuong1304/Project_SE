@@ -21,7 +21,7 @@ def clear_text():
 
 # Tạo cửa sổ chính
 root = tk.Tk()
-root.title("Ứng dụng Dịch thuật")
+root.title("Dịch thuật Đoạn Văn")
 
 # Thiết lập icon cho cửa sổ
 root.iconbitmap("icon.ico")  # Thay đổi đường dẫn đến tệp icon của bạn
