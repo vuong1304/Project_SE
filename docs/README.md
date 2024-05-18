@@ -1,12 +1,12 @@
 # Project Translate 
-* Giao diện chính 
+
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/9bee16e4-e462-48e5-8345-ccb383b9fd9f)
 
-* Tính năng 1
+
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/1e79de78-be10-462b-8928-1991734c9bff)
-* Tính năng 2
+
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/592a52bd-222e-4f8e-b0ce-6c04d067b4f0)
-* Tính năng 3 
+
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/cca361a3-70d1-4c71-9e1c-3e3c6b7e9ac1)
 
 ## Mô Tả  
