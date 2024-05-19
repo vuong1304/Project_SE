@@ -64,8 +64,10 @@ moviepy
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
   - Gõ:
-```cd YOUTUBE
-python main.py```
+```
+cd YOUTUBE
+python main.py
+```
         
      
 ## Help
