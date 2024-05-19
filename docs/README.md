@@ -2,7 +2,7 @@
 
 ### Video Demo: [Video](https://drive.google.com/file/d/1igNFQXWUOfxcXw-MQah32LS_gcwHRz2S/view?usp=sharing) 
 
-### Báo cáo: Report](https://drive.google.com/drive/folders/1VAJswDUYe-aHXIREr-7bb5odeIxdbcot?usp=sharing)
+### Báo cáo: [Report](https://drive.google.com/drive/folders/1VAJswDUYe-aHXIREr-7bb5odeIxdbcot?usp=sharing)
 
 ## Giới thiệu sản phẩm:
 
