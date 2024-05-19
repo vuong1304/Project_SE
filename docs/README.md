@@ -75,6 +75,7 @@ Ví dụ persona
 * Tần suất sử dụng: Hàng ngày, khi cần dịch tài liệu công việc hoặc xem video để học tập và giải trí.
 * Tương tác: Thích các ứng dụng có thể sử dụng ngay trên trình duyệt hoặc điện thoại di động mà không cần tải về và cài đặt phức tạp.
 * Phản hồi: Đánh giá cao các tính năng cải tiến và thường xuyên đưa ra phản hồi để cải thiện dịch vụ.
+
 Kết Luận
 Nguyễn Thị Mai là một đại diện tiêu biểu cho người dùng mục tiêu của phần mềm dịch thuật. Cô cần một công cụ dịch không chỉ chính xác và hiệu quả mà còn dễ sử dụng và tiện lợi trong cuộc sống hàng ngày. Việc hiểu rõ nhu cầu và thách thức của Mai sẽ giúp đội ngũ phát triển tạo ra một sản phẩm đáp ứng tốt nhất yêu cầu của người dùng.
 
