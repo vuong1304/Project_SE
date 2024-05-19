@@ -67,20 +67,3 @@ lenh_button.pack(pady=10)
 # Chạy vòng lặp chính của giao diện
 root.mainloop()
 
-# import subprocess
-# import os
-
-# # Đường dẫn đến thư mục Project_SE (đường dẫn tương đối từ thư mục hiện tại)
-# project_se_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-
-# # Đường dẫn đến thư mục translator trong Project_SE
-# translator_path = os.path.join(project_se_path, "translator")
-
-# # Đường dẫn đến file Trans.py trong thư mục translator
-# trans_path = os.path.join(translator_path, "Trans.py")
-
-# # Mở file Trans.py bằng Python trực tiếp
-# if os.path.exists(trans_path):
-#     subprocess.Popen(["python", trans_path])
-# else:
-#     print("File Trans.py không tồn tại trong thư mục translator.")
