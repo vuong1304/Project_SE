@@ -57,7 +57,7 @@ def run_autocap():
 
 # Tạo cửa sổ giao diện
 root = tk.Tk()
-root.title("Ứng dụng Dịch thuật")
+root.title("Tạo Subtitle Youtube")
 # Thiết lập icon cho cửa sổ
 root.iconbitmap("icon.ico")
 
@@ -77,3 +77,72 @@ time_label.pack()
 
 # Chạy vòng lặp chính của giao diện
 root.mainloop()
+# ---------------------------------------------------------------------------------------------------------------------------
+# import subprocess
+# import tkinter as tk
+# from datetime import datetime
+
+# def download_and_process():
+#     youtube_link = entry_link.get()
+
+#     # Lệnh để tải video từ YouTube
+#     download_command = ["python", "autocap.py", "youtube-g", youtube_link]
+#     subprocess.run(download_command)
+
+#     # Lệnh ffmpeg để thêm phụ đề và xuất video
+#     ffmpeg_command = [
+#         "ffmpeg", "-y",
+#         "-i", "yt.mp4",
+#         "-i", "temp.mp3",
+#         "-filter_complex", "subtitles=output.srt:force_style='Name=Default,Fontname=Cambria Bold,Fontsize=20,PrimaryColour=&H05C8F7&,SecondaryColour=&h0000FF,BackColour=&H0,BorderStyle=3,Shadow=0',setsar=1",
+#         "-map", "1:a:0",
+#         "-vcodec", "libx264",
+#         "-pix_fmt", "yuv420p",
+#         "-r", "25",
+#         "-g", "160",
+#         "-b:v", "4000k",
+#         "-profile:v", "main",
+#         "-level", "3.1",
+#         "-acodec", "libmp3lame",
+#         "-b:a", "128k",
+#         "-ar", "44100",
+#         "-preset", "superfast",
+#         "outvideo.mp4"
+#     ]
+
+#     # Thực thi lệnh ffmpeg
+#     subprocess.run(ffmpeg_command)
+
+#     # Hiển thị thời gian thực thi
+#     end_time = datetime.now()
+#     execution_time = end_time - start_time
+#     label_time.config(text=f"Thời gian thực thi: {execution_time}")
+
+# def open_video():
+#     # Mở video sau khi hoàn thành
+#     subprocess.run(["outvideo.mp4"], shell=True)
+
+# # Tạo cửa sổ giao diện
+# root = tk.Tk()
+# root.title("Ứng dụng tạo phụ đề")
+
+# # Khởi tạo các widget
+# label_link = tk.Label(root, text="Link YouTube:")
+# entry_link = tk.Entry(root, width=50)
+# button_download = tk.Button(root, text="Tải và xử lý", command=download_and_process)
+# label_time = tk.Label(root, text="")
+# button_open_video = tk.Button(root, text="Mở video", command=open_video)
+
+# # Định vị các widget trên cửa sổ giao diện
+# label_link.grid(row=0, column=0, padx=10, pady=5, sticky="e")
+# entry_link.grid(row=0, column=1, padx=10, pady=5)
+# button_download.grid(row=1, column=0, columnspan=2, padx=10, pady=5)
+# label_time.grid(row=2, column=0, columnspan=2, padx=10, pady=5)
+# button_open_video.grid(row=3, column=0, columnspan=2, padx=10, pady=5)
+
+# # Bắt đầu thời gian khi chương trình được khởi chạy
+# start_time = datetime.now()
+
+# # Chạy vòng lặp giao diện chính
+# root.mainloop()
+

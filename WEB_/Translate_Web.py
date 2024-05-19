@@ -59,11 +59,13 @@ def clear_text():
 
 # Tạo cửa sổ chính
 root = tk.Tk()
-root.title("Dịch Thuật")
+root.title("Dịch Thuật Website Tiếng Anh")
 
 # Thiết lập icon cho cửa sổ
-image_icon = PhotoImage(file = "WEB_/icon.png")
-root.iconphoto(False, image_icon)
+# image_icon = PhotoImage(file = "WEB_/icon.png")
+
+# root.iconphoto(False, image_icon)
+root.iconbitmap("icon.ico")  
 
 # Tạo các khung cho giao diện
 frame = ttk.Frame(root, padding="10")
