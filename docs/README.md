@@ -54,15 +54,15 @@ moviepy
 * Để cài đặt bạn có thế đi đến phần tải xuống trên github và tải xuống dự án của chúng tôi. 
 * Để cài đặt các thư viện bạn chỉ cần chạy trong cmd:
   - pip install tên_thư_viện
-  - 
+  
 ### Chương trình thực thi  
  
 * Sau khi tải và cài đặt các thư viện, bạn chỉ cần chạy file main.py chương trình sẽ thực thi.
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
   - Gõ:
-        - cd YOUTUBE
-        - python main.py
+        'cd YOUTUBE'
+        'python main.py'
      
 ## Help
 
