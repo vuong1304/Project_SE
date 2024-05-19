@@ -49,16 +49,21 @@ yt_dlp
 moviepy
 
 ### Cài đặt 
+
 * Cài đặt python tước tiên 
 * Để cài đặt bạn có thế đi đến phần tải xuống trên github và tải xuống dự án của chúng tôi. 
 * Để cài đặt các thư viện bạn chỉ cần chạy trong cmd:
-  - pip install tên_thư_viện 
+  - pip install tên_thư_viện
+  - 
 ### Chương trình thực thi  
  
 * Sau khi tải và cài đặt các thư viện, bạn chỉ cần chạy file main.py chương trình sẽ thực thi.
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
-  - Gõ: python main.py 
+  - Gõ:
+        cd YOUTUBE
+        python main.py
+     
 ## Help
 
 Nếu có bất cứ vấn đề gì trong chương trình, xin hãy báo cáo lại cho chúng tôi.
