@@ -60,8 +60,7 @@ moviepy
 * Sau khi tải và cài đặt các thư viện, bạn chỉ cần chạy file main.py chương trình sẽ thực thi.
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
-  - Gõ:
-  - <pre>
+  - Gõ: <pre>
 ```python
 'cd YOUTUBE'
 'python main.py'
