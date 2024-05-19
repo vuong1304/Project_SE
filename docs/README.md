@@ -1,5 +1,5 @@
 # Project Translate 
-
+Video DEMO: https://drive.google.com/file/d/1igNFQXWUOfxcXw-MQah32LS_gcwHRz2S/view?usp=sharing
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/9bee16e4-e462-48e5-8345-ccb383b9fd9f)
 
 
