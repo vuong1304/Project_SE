@@ -1,5 +1,8 @@
-# Project Translate 
-![image](https://github.com/vuong1304/Project_SE/assets/127286400/26a3911b-322d-4af6-8219-62b50bb94445)
+# Project Translate
+
+Video DEMO: https://drive.google.com/file/d/1igNFQXWUOfxcXw-MQah32LS_gcwHRz2S/view?usp=sharing
+
+![image](https://github.com/vuong1304/Project_SE/assets/127286400/9bee16e4-e462-48e5-8345-ccb383b9fd9f)
 
 ![image](https://github.com/vuong1304/Project_SE/assets/127286400/1e79de78-be10-462b-8928-1991734c9bff)
 
