@@ -72,7 +72,7 @@ frame = ttk.Frame(root, padding="10")
 frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
 
 # Nhãn và khung nhập văn bản nguồn
-ttk.Label(frame, text="Văn bản nguồn :").grid(row=0, column=0, sticky=tk.W)
+ttk.Label(frame, text="Link Website :").grid(row=0, column=0, sticky=tk.W)
 src_text = tk.Text(frame, width=50, height=10)
 src_text.grid(row=1, column=0, columnspan=2, sticky=(tk.W, tk.E))
 
