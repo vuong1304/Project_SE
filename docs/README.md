@@ -34,7 +34,7 @@ Phần mềm hướng tới người dùng là người Việt Nam, những ngư
 
 Hiện tại tôi đang chạy dự án trên Window.
 Ngôn ngữ chính là python và đi kèm theo đó là các thư viện:
-`
+```
   os
 argparse
 platform
@@ -48,12 +48,7 @@ whisper
 ffmpeg 
 yt_dlp 
 moviepy
- `
- ```python
-def hello_world():
-    print("Hello, world!")
-hello_world()
-```
+ ```
 
 
 ### Cài đặt 
@@ -69,8 +64,8 @@ hello_world()
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
   - Gõ:
-`cd YOUTUBE
-python main.py`
+```cd YOUTUBE
+python main.py```
         
      
 ## Help
