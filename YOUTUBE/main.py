@@ -2,8 +2,6 @@ import tkinter as tk
 import subprocess
 import os
 
-# Đường dẫn đến thư mục Project_SE (đường dẫn tương đối từ thư mục hiện tại)
-# project_se_path = os.path.abspath(os.path.join(os.path.dirname(__file__)))
 
 def run_trans():
     # Đường dẫn tới file Trans.py trong thư mục translator
@@ -33,7 +31,7 @@ def run_web():
     project_se_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
     # Đường dẫn đến thư mục translator trong Project_SE
-    translator_path = os.path.join(project_se_path, "WEB")
+    translator_path = os.path.join(project_se_path, "WEB_")
 
     # Đường dẫn đến file Trans.py trong thư mục translator
     trans_path = os.path.join(translator_path, "Translate_Web.py")
