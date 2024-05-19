@@ -61,7 +61,7 @@ moviepy
 * Các khác chạy bằng cmd:
   - Tại đường dẫn thư mục chạy cmd
   - Gõ: <pre>
-```python
+```
 'cd YOUTUBE'
 'python main.py'
 ```
